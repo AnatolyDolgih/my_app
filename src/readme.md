@@ -1,2 +1,2 @@
 
-## I hate "git merge" 
+## I like "git merge" 
