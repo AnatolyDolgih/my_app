@@ -1,2 +1,2 @@
 
-## I like "git merge" 
+## I like "git clone" 
